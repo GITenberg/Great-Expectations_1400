@@ -1,5 +1,5 @@
 _repo: Great-Expectations_1400
-_version: 0.1.1
+_version: 0.1.2
 covers:
 - attribution: Grace Kennedy, 2015
   cover_type: original
@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '37'
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1400#Great-Expectations
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '1998-07-01'
 gutenberg_type: Text
