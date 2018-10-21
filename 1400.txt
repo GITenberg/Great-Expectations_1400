@@ -12,7 +12,7 @@ Author: Charles Dickens
 
 Posting Date: August 20, 2008 [EBook #1400]
 Release Date: July, 1998
-[Last updated: December 30, 2011]
+[Last updated: October 17, 2015]
 
 Language: English
 
@@ -550,8 +550,8 @@ People are put in the Hulks because they murder, and because they rob,
 and forge, and do all sorts of bad; and they always begin by asking
 questions. Now, you get along to bed!"
 
-I was never allowed a candle to light me to bed, and, as I went up
-stairs in the dark, with my head tingling,--from Mrs. Joe's thimble
+I was never allowed a candle to light me to bed, and, as I went upstairs
+in the dark, with my head tingling,--from Mrs. Joe's thimble
 having played the tambourine upon it, to accompany her last words,--I
 felt fearfully sensible of the great convenience that the hulks were
 handy for me. I was clearly on my way there. I had begun by asking
@@ -579,11 +579,11 @@ of flint and steel, and have made a noise like the very pirate himself
 rattling his chains.
 
 As soon as the great black velvet pall outside my little window was shot
-with gray, I got up and went down stairs; every board upon the way, and
+with gray, I got up and went downstairs; every board upon the way, and
 every crack in every board calling after me, "Stop thief!" and "Get up,
 Mrs. Joe!" In the pantry, which was far more abundantly supplied than
 usual, owing to the season, I was very much alarmed by a hare hanging
-up by the heels, whom I rather thought I caught when my back was half
+up by the heels, whom I rather thought I caught, when my back was half
 turned, winking. I had no time for verification, no time for selection,
 no time for anything, for I had no time to spare. I stole some bread,
 some rind of cheese, about half a jar of mincemeat (which I tied up in
@@ -594,7 +594,7 @@ room: diluting the stone bottle from a jug in the kitchen cupboard),
 a meat bone with very little on it, and a beautiful round compact pork
 pie. I was nearly going away without the pie, but I was tempted to mount
 upon a shelf, to look what it was that was put away so carefully in a
-covered earthen ware dish in a corner, and I found it was the pie, and
+covered earthenware dish in a corner, and I found it was the pie, and
 I took it in the hope that it was not intended for early use, and would
 not be missed for some time.
 
@@ -625,7 +625,7 @@ The mist was heavier yet when I got out upon the marshes, so that
 instead of my running at everything, everything seemed to run at me.
 This was very disagreeable to a guilty mind. The gates and dikes and
 banks came bursting at me through the mist, as if they cried as plainly
-as could be, "A boy with Somebody's else's pork pie! Stop him!" The
+as could be, "A boy with somebody else's pork pie! Stop him!" The
 cattle came upon me with like suddenness, staring out of their eyes,
 and steaming out of their nostrils, "Halloa, young thief!" One black
 ox, with a white cravat on,--who even had to my awakened conscience
@@ -670,7 +670,7 @@ him. I dare say I should have felt a pain in my liver, too, if I had
 known where it was.
 
 I was soon at the Battery after that, and there was the right
-Man,--hugging himself and limping to and fro, as if he had never all
+man,--hugging himself and limping to and fro, as if he had never all
 night left off hugging and limping,--waiting for me. He was awfully
 cold, to be sure. I half expected to see him drop down before my face
 and die of deadly cold. His eyes looked so awfully hungry too, that when
@@ -1130,7 +1130,7 @@ But, Uncle Pumblechook, who was omnipotent in that kitchen, wouldn't
 hear the word, wouldn't hear of the subject, imperiously waved it all
 away with his hand, and asked for hot gin and water. My sister, who had
 begun to be alarmingly meditative, had to employ herself actively in
-getting the gin the hot water, the sugar, and the lemon-peel, and mixing
+getting the gin, the hot water, the sugar, and the lemon-peel, and mixing
 them. For the time being at least, I was saved. I still held on to the
 leg of the table, but clutched it now with the fervor of gratitude.
 
@@ -1211,7 +1211,7 @@ them?"
 
 Joe threw his eye over them, and pronounced that the job would
 necessitate the lighting of his forge fire, and would take nearer
-two hours than one, "Will it? Then will you set about it at once,
+two hours than one. "Will it? Then will you set about it at once,
 blacksmith?" said the off-hand sergeant, "as it's on his Majesty's
 service. And if my men can bear a hand anywhere, they'll make themselves
 useful." With that, he called to his men, who came trooping into the
@@ -1265,7 +1265,7 @@ The interest of the impending pursuit not only absorbed the general
 attention, but even made my sister liberal. She drew a pitcher of beer
 from the cask for the soldiers, and invited the sergeant to take a glass
 of brandy. But Mr. Pumblechook said, sharply, "Give him wine, Mum. I'll
-engage there's no Tar in that:" so, the sergeant thanked him and said
+engage there's no tar in that:" so, the sergeant thanked him and said
 that as he preferred his drink without tar, he would take wine, if it
 was equally convenient. When it was given him, he drank his Majesty's
 health and compliments of the season, and took it all at a mouthful and
@@ -1626,7 +1626,7 @@ never afterwards could see him glance, however casually, at yesterday's
 meat or pudding when it came on to-day's table, without thinking that he
 was debating whether I had been in the pantry. That, if Joe knew it, and
 at any subsequent period of our joint domestic life remarked that his
-beer was flat or thick, the conviction that he suspected Tar in it,
+beer was flat or thick, the conviction that he suspected tar in it,
 would bring a rush of blood to my face. In a word, I was too cowardly
 to do what I knew to be right, as I had been too cowardly to avoid doing
 what I knew to be wrong. I had had no intercourse with the world at
@@ -1656,7 +1656,7 @@ carefully surveying the premises, that he had first got upon the roof of
 the forge, and had then got upon the roof of the house, and had then let
 himself down the kitchen chimney by a rope made of his bedding cut
 into strips; and as Mr. Pumblechook was very positive and drove his
-own chaise-cart--over Everybody--it was agreed that it must be so. Mr.
+own chaise-cart--over everybody--it was agreed that it must be so. Mr.
 Wopsle, indeed, wildly cried out, "No!" with the feeble malice of a
 tired man; but, as he had no theory, and no coat on, he was unanimously
 set at naught,--not to mention his smoking hard behind, as he stood
@@ -1697,7 +1697,7 @@ forge, but if any neighbor happened to want an extra boy to frighten
 birds, or pick up stones, or do any such job, I was favored with the
 employment. In order, however, that our superior position might not be
 compromised thereby, a money-box was kept on the kitchen mantel-shelf,
-in to which it was publicly made known that all my earnings were
+into which it was publicly made known that all my earnings were
 dropped. I have an impression that they were to be contributed
 eventually towards the liquidation of the National Debt, but I know I
 had no hope of any personal participation in the treasure.
@@ -1707,7 +1707,7 @@ to say, she was a ridiculous old woman of limited means and unlimited
 infirmity, who used to go to sleep from six to seven every evening, in
 the society of youth who paid two pence per week each, for the improving
 opportunity of seeing her do it. She rented a small cottage, and Mr.
-Wopsle had the room up stairs, where we students used to overhear him
+Wopsle had the room upstairs, where we students used to overhear him
 reading aloud in a most dignified and terrific manner, and occasionally
 bumping on the ceiling. There was a fiction that Mr. Wopsle "examined"
 the scholars once a quarter. What he did on those occasions was to turn
@@ -1724,9 +1724,9 @@ Mr. Wopsle's great-aunt, besides keeping this Educational Institution,
 kept in the same room--a little general shop. She had no idea what stock
 she had, or what the price of anything in it was; but there was a little
 greasy memorandum-book kept in a drawer, which served as a Catalogue
-of Prices, and by this oracle Biddy arranged all the shop transaction.
+of Prices, and by this oracle Biddy arranged all the shop transactions.
 Biddy was Mr. Wopsle's great-aunt's granddaughter; I confess myself
-quiet unequal to the working out of the problem, what relation she was
+quite unequal to the working out of the problem, what relation she was
 to Mr. Wopsle. She was an orphan like myself; like me, too, had been
 brought up by hand. She was most noticeable, I thought, in respect of
 her extremities; for, her hair always wanted brushing, her hands always
@@ -1749,7 +1749,7 @@ time after, and it was winter and a hard frost. With an alphabet on the
 hearth at my feet for reference, I contrived in an hour or two to print
 and smear this epistle:--
 
-"MI DEER JO i OPE U R KR WITE WELL i OPE i SHAL SON B HABELL 4 2 TEEDGE
+"MI DEER JO i OPE U R KRWITE WELL i OPE i SHAL SON B HABELL 4 2 TEEDGE
 U JO AN THEN WE SHORL B SO GLODD AN WEN i M PRENGTD 2 U JO WOT LARX AN
 BLEVE ME INF XN PIP."
 
@@ -2838,7 +2838,7 @@ amazement. "You don't mean to say it's--"
 "Yes I do; it's lies, Joe."
 
 "But not all of it? Why sure you don't mean to say, Pip, that there was
-no black welwet co--ch?" For, I stood shaking my head. "But at least
+no black welwet co--eh?" For, I stood shaking my head. "But at least
 there was dogs, Pip? Come, Pip," said Joe, persuasively, "if there
 warn't no weal-cutlets, at least there was dogs?"
 
@@ -2894,7 +2894,7 @@ scholar afore you can be a oncommon one, I should hope! The king upon
 his throne, with his crown upon his ed, can't sit and write his acts
 of Parliament in print, without having begun, when he were a unpromoted
 Prince, with the alphabet.--Ah!" added Joe, with a shake of the head
-that was full of meaning, "and begun at A. too, and worked his way to Z.
+that was full of meaning, "and begun at A too, and worked his way to Z.
 And I know what that is to do, though I can't say I've exactly done it."
 
 There was some hope in this piece of wisdom, and it rather encouraged
@@ -2921,7 +2921,7 @@ happy."
 "No, old chap. But bearing in mind that them were which I meantersay
 of a stunning and outdacious sort,--alluding to them which bordered on
 weal-cutlets and dog-fighting,--a sincere well-wisher would adwise, Pip,
-their being dropped into your meditations, when you go up stairs to bed.
+their being dropped into your meditations, when you go upstairs to bed.
 That's all, old chap, and don't never do it no more."
 
 When I got up to my little room and said my prayers, I did not forget
@@ -3364,7 +3364,7 @@ now?"
 
 "I shall not tell you."
 
-"Because you are going to tell up stairs. Is that it?"
+"Because you are going to tell upstairs. Is that it?"
 
 "No," said I, "that's not it."
 
@@ -3374,7 +3374,7 @@ now?"
 false a declaration as ever was made; for I was inwardly crying for her
 then, and I know what I know of the pain she cost me afterwards.
 
-We went on our way up stairs after this episode; and, as we were going
+We went on our way upstairs after this episode; and, as we were going
 up, we met a gentleman groping his way down.
 
 "Whom have we here?" asked the gentleman, stopping and looking at me.
@@ -3406,7 +3406,7 @@ you're a bad set of fellows. Now mind!" said he, biting the side of his
 great forefinger as he frowned at me, "you behave yourself!"
 
 With those words, he released me--which I was glad of, for his hand
-smelt of scented soap--and went his way down stairs. I wondered whether
+smelt of scented soap--and went his way downstairs. I wondered whether
 he could be a doctor; but no, I thought; he couldn't be a doctor, or he
 would have a quieter and more persuasive manner. There was not much time
 to consider the subject, for we were soon in Miss Havisham's room, where
@@ -4171,7 +4171,7 @@ he had fallen into frightful difficulties, until he triumphantly rescued
 himself with the words, "and from myself far be it!" These words had
 such a round and convincing sound for him that he said them twice.
 
-"Good by, Pip!" said Miss Havisham. "Let them out, Estella."
+"Good-bye, Pip!" said Miss Havisham. "Let them out, Estella."
 
 "Am I to come again, Miss Havisham?" I asked.
 
@@ -4183,7 +4183,7 @@ that is his reward. Of course, as an honest man, you will expect no
 other and no more."
 
 How Joe got out of the room, I have never been able to determine; but
-I know that when he did get out he was steadily proceeding up stairs
+I know that when he did get out he was steadily proceeding upstairs
 instead of coming down, and was deaf to all remonstrances until I went
 after him and laid hold of him. In another minute we were outside the
 gate, and it was locked, and Estella was gone. When we stood in the
@@ -4450,10 +4450,14 @@ of prices, to a comic song she had once bought for a half-penny.
 Although the only coherent part of the latter piece of literature were
 the opening lines.
 
-When I went to Lunnon town sirs, Too rul loo rul Too rul loo rul Wasn't
-I done very brown sirs? Too rul loo rul Too rul loo rul--still, in
-my desire to be wiser, I got this composition by heart with the utmost
-gravity; nor do I recollect that I questioned its merit, except that I
+     When I went to Lunnon town sirs,
+     Too rul loo rul
+     Too rul loo rul
+     Wasn't I done very brown sirs?
+     Too rul loo rul
+     Too rul loo rul
+
+--still, in my desire to be wiser, I got this composition by heart with the utmost gravity; nor do I recollect that I questioned its merit, except that I
 thought (as I still do) the amount of Too rul somewhat in excess of the
 poetry. In my hunger for information, I made proposals to Mr. Wopsle to
 bestow some intellectual crumbs upon me, with which he kindly complied.
@@ -4574,7 +4578,7 @@ along; "and what I say to you is, you are right, Pip."
 
 "Yes, Joe; but what I wanted to say, was, that as we are rather slack
 just now, if you would give me a half-holiday to-morrow, I think I would
-go up-town and make a call on Miss Est--Havisham."
+go uptown and make a call on Miss Est--Havisham."
 
 "Which her name," said Joe, gravely, "ain't Estavisham, Pip, unless she
 have been rechris'ened."
@@ -4643,7 +4647,7 @@ worthy. "Two can go up town. Tain't only one wot can go up town.
 
 "Don't lose your temper," said Joe.
 
-"Shall if I like," growled Orlick. "Some and their up-towning! Now,
+"Shall if I like," growled Orlick. "Some and their uptowning! Now,
 master! Come. No favoring in this shop. Be a man!"
 
 The master refusing to entertain the subject until the journeyman was in
@@ -4729,8 +4733,8 @@ carried into the house and laid down, and who was recommended to revive,
 and would do nothing but struggle and clench her hands in Joe's hair.
 Then, came that singular calm and silence which succeed all uproars; and
 then, with the vague sensation which I have always connected with such
-a lull,--namely, that it was Sunday, and somebody was dead,--I went up
-stairs to dress myself.
+a lull,--namely, that it was Sunday, and somebody was dead,--I went upstairs
+stto dress myself.
 
 When I came down again, I found Joe and Orlick sweeping up, without any
 other traces of discomposure than a slit in one of Orlick's nostrils,
@@ -4999,7 +5003,7 @@ ill in bed. Her sight was disturbed, so that she saw objects multiplied,
 and grasped at visionary teacups and wineglasses instead of the
 realities; her hearing was greatly impaired; her memory also; and her
 speech was unintelligible. When, at last, she came round so far as to
-be helped down stairs, it was still necessary to keep my slate always by
+be helped downstairs, it was still necessary to keep my slate always by
 her, that she might indicate in writing what she could not indicate in
 speech. As she was (very bad handwriting apart) a more than indifferent
 speller, and as Joe was a more than indifferent reader, extraordinary
@@ -5488,7 +5492,7 @@ in a confirmatory murmur.
 "I know you do," said the stranger; "I knew you would. I told you so.
 But now I'll ask you a question. Do you know, or do you not know,
 that the law of England supposes every man to be innocent, until he is
-proved-proved--to be guilty?"
+proved--proved--to be guilty?"
 
 "Sir," Mr. Wopsle began to reply, "as an Englishman myself, I--"
 
@@ -5670,7 +5674,7 @@ and don't try to go from it presently."
 Bear that in mind, will you?" repeated Mr. Jaggers, shutting his eyes
 and nodding his head at Joe, as if he were forgiving him something.
 "Now, I return to this young fellow. And the communication I have got to
-make is, that he has Great Expectations."
+make is, that he has great expectations."
 
 Joe and I gasped, and looked at one another.
 
@@ -6478,7 +6482,7 @@ brown to green and yellow.
 
 "You?" said she. "You? Good gracious! What do you want?"
 
-"I am going to London, Miss Pocket," said I, "and want to say good by to
+"I am going to London, Miss Pocket," said I, "and want to say good-bye to
 Miss Havisham."
 
 I was not expected, for she left me locked in the yard, while she went
@@ -6525,12 +6529,12 @@ She quite gloated on these questions and answers, so keen was her
 enjoyment of Sarah Pocket's jealous dismay. "Well!" she went on; "you
 have a promising career before you. Be good--deserve it--and abide by
 Mr. Jaggers's instructions." She looked at me, and looked at Sarah, and
-Sarah's countenance wrung out of her watchful face a cruel smile. "Good
-by, Pip!--you will always keep the name of Pip, you know."
+Sarah's countenance wrung out of her watchful face a cruel smile. "Good-bye,
+Pip!--you will always keep the name of Pip, you know."
 
 "Yes, Miss Havisham."
 
-"Good by, Pip!"
+"Good-bye, Pip!"
 
 She stretched out her hand, and I went down on my knee and put it to
 my lips. I had not considered how I should take leave of her; it came
@@ -6541,7 +6545,7 @@ lighted room beside the rotten bride-cake that was hidden in cobwebs.
 
 Sarah Pocket conducted me down, as if I were a ghost who must be seen
 out. She could not get over my appearance, and was in the last degree
-confounded. I said "Good by, Miss Pocket;" but she merely stared, and
+confounded. I said "Good-bye, Miss Pocket;" but she merely stared, and
 did not seem collected enough to know that I had spoken. Clear of the
 house, I made the best of my way back to Pumblechook's, took off my new
 clothes, made them into a bundle, and went back home in my older dress,
@@ -6579,7 +6583,7 @@ Biddy was astir so early to get my breakfast, that, although I did not
 sleep at the window an hour, I smelt the smoke of the kitchen fire when
 I started up with a terrible idea that it must be late in the afternoon.
 But long after that, and long after I had heard the clinking of the
-teacups and was quite ready, I wanted the resolution to go down stairs.
+teacups and was quite ready, I wanted the resolution to go downstairs.
 After all, I remained up there, repeatedly unlocking and unstrapping
 my small portmanteau and locking and strapping it up again, until Biddy
 called to me that I was late.
@@ -6603,7 +6607,7 @@ peaceful and quiet, and the light mists were solemnly rising, as if to
 show me the world, and I had been so innocent and little there, and all
 beyond was so unknown and great, that in a moment with a strong heave
 and sob I broke into tears. It was by the finger-post at the end of the
-village, and I laid my hand upon it, and said, "Good by, O my dear, dear
+village, and I laid my hand upon it, and said, "Good-bye, O my dear, dear
 friend!"
 
 Heaven knows we need never be ashamed of our tears, for they are rain
@@ -6718,7 +6722,7 @@ I sat down in the cliental chair placed over against Mr. Jaggers's
 chair, and became fascinated by the dismal atmosphere of the place. I
 called to mind that the clerk had the same air of knowing something to
 everybody else's disadvantage, as his master had. I wondered how many
-other clerks there were up-stairs, and whether they all claimed to have
+other clerks there were upstairs, and whether they all claimed to have
 the same detrimental mastery of their fellow-creatures. I wondered what
 was the history of all the odd litter about the room, and how it came
 there. I wondered whether the two swollen faces were of Mr. Jaggers's
@@ -6969,7 +6973,7 @@ I was so near my destination; Wemmick should walk round with me, if I
 pleased.
 
 I then found that Wemmick was the clerk in the next room. Another clerk
-was rung down from up stairs to take his place while he was out, and I
+was rung down from upstairs to take his place while he was out, and I
 accompanied him into the street, after shaking hands with my guardian.
 We found a new set of people lingering outside, but Wemmick made a way
 among them by saying coolly yet decisively, "I tell you it's no use; he
@@ -7798,7 +7802,7 @@ and let them live there, until I found this unknown power to be the
 servants. It was a smooth way of going on, perhaps, in respect of saving
 trouble; but it had the appearance of being expensive, for the servants
 felt it a duty they owed to themselves to be nice in their eating and
-drinking, and to keep a deal of company down stairs. They allowed a very
+drinking, and to keep a deal of company downstairs. They allowed a very
 liberal table to Mr. and Mrs. Pocket, yet it always appeared to me that
 by far the best part of the house to have boarded in would have been
 the kitchen,--always supposing the boarder capable of self-defence, for,
@@ -8039,7 +8043,7 @@ that odious Sophia's doing!"
 eyes and hear her with my own ears, come into the room just now and ask
 to speak to you?"
 
-"But has she not taken me down stairs, Belinda," returned Mr. Pocket,
+"But has she not taken me downstairs, Belinda," returned Mr. Pocket,
 "and shown me the woman, and the bundle too?"
 
 "And do you defend her, Matthew," said Mrs. Pocket, "for making
@@ -8183,7 +8187,7 @@ you like to see 'em? You are one of us, as I may say."
 I accepted the offer. When Mr. Wemmick had put all the biscuit into the
 post, and had paid me my money from a cash-box in a safe, the key
 of which safe he kept somewhere down his back and produced from his
-coat-collar like an iron-pigtail, we went up stairs. The house was dark
+coat-collar like an iron-pigtail, we went upstairs. The house was dark
 and shabby, and the greasy shoulders that had left their mark in Mr.
 Jaggers's room seemed to have been shuffling up and down the staircase
 for years. In the front first floor, a clerk who looked something
@@ -8203,7 +8207,7 @@ dressed in old black clothes that bore the appearance of having been
 waxed, was stooping over his work of making fair copies of the notes of
 the other two gentlemen, for Mr. Jaggers's own use.
 
-This was all the establishment. When we went down stairs again, Wemmick
+This was all the establishment. When we went downstairs again, Wemmick
 led me into my guardian's room, and said, "This you've seen already."
 
 "Pray," said I, as the two odious casts with the twitchy leer upon them
@@ -8482,7 +8486,7 @@ and a gothic door almost too small to get in at.
 
 "That's a real flagstaff, you see," said Wemmick, "and on Sundays I
 run up a real flag. Then look here. After I have crossed this bridge, I
-hoist it up-so--and cut off the communication."
+hoist it up--so--and cut off the communication."
 
 The bridge was a plank, and it crossed a chasm about four feet wide
 and two deep. But it was very pleasant to see the pride with which he
@@ -8898,7 +8902,7 @@ Startop leading, and Drummle lagging behind in the shadow of the houses,
 much as he was wont to follow in his boat.
 
 As the door was not yet shut, I thought I would leave Herbert there for
-a moment, and run up stairs again to say a word to my guardian. I found
+a moment, and run upstairs again to say a word to my guardian. I found
 him in his dressing-room surrounded by his stock of boots, already hard
 at it, washing his hands of us.
 
@@ -9002,8 +9006,8 @@ giant of a Sweep.
 
 As the time approached I should have liked to run away, but the Avenger
 pursuant to orders was in the hall, and presently I heard Joe on
-the staircase. I knew it was Joe, by his clumsy manner of coming up
-stairs,--his state boots being always too big for him,--and by the time
+the staircase. I knew it was Joe, by his clumsy manner of coming upstairs,
+--his state boots being always too big for him,--and by the time
 it took him to read the names on the other floors in the course of
 his ascent. When at last he stopped outside our door, I could hear his
 finger tracing over the painted letters of my name, and I afterwards
@@ -9084,7 +9088,7 @@ plainly denoted an intention to make that young gentleman one of the
 family, that I frowned it down and confused him more--"I meantersay, you
 two gentlemen,--which I hope as you get your elths in this close spot?
 For the present may be a werry good inn, according to London opinions,"
-said Joe, confidentially, "and I believe its character do stand i; but I
+said Joe, confidentially, "and I believe its character do stand it; but I
 wouldn't keep a pig in it myself,--not in the case that I wished him to
 fatten wholesome and to eat with a meller flavor on him."
 
@@ -9383,7 +9387,7 @@ place next him, and the convicts hauled themselves up as well as they
 could, and the convict I had recognized sat behind me with his breath on
 the hair of my head.
 
-"Good by, Handel!" Herbert called out as we started. I thought what a
+"Good-bye, Handel!" Herbert called out as we started. I thought what a
 blessed fortune it was, that he had found another name for me than Pip.
 
 It is impossible to express with what acuteness I felt the convict's
@@ -10532,13 +10536,13 @@ feeling keenly for him, but laughing, nevertheless, from ear to ear. I
 laughed in spite of myself all the time, the whole thing was so droll;
 and yet I had a latent impression that there was something decidedly
 fine in Mr. Wopsle's elocution,--not for old associations' sake, I am
-afraid, but because it was very slow, very dreary, very up-hill and
-down-hill, and very unlike any way in which any man in any natural
+afraid, but because it was very slow, very dreary, very uphill and
+downhill, and very unlike any way in which any man in any natural
 circumstances of life or death ever expressed himself about anything.
 When the tragedy was over, and he had been called for and hooted, I said
 to Herbert, "Let us go at once, or perhaps we shall meet him."
 
-We made all the haste we could down stairs, but we were not quick enough
+We made all the haste we could downstairs, but we were not quick enough
 either. Standing at the door was a Jewish man with an unnatural heavy
 smear of eyebrow, who caught my eyes as we advanced, and said, when we
 came up with him,--
@@ -10740,8 +10744,8 @@ where some fetters were hanging up on the bare walls among the prison
 rules, into the interior of the jail. At that time jails were much
 neglected, and the period of exaggerated reaction consequent on
 all public wrongdoing--and which is always its heaviest and longest
-punishment--was still far off. So felons were not lodged and fed better
-than soldiers, (to say nothing of paupers,) and seldom set fire to their
+punishment--was still far off. So, felons were not lodged and fed better
+than soldiers (to say nothing of paupers), and seldom set fire to their
 prisons with the excusable object of improving the flavor of their soup.
 It was visiting time when Wemmick took me in, and a potman was going his
 rounds with beer; and the prisoners, behind bars in yards, were buying
@@ -10809,7 +10813,7 @@ his lips and laughed.
 
 "Perhaps," returned my friend, "but there's no knowing."
 
-"I am glad to have the chance of bidding you good by, Mr. Wemmick," said
+"I am glad to have the chance of bidding you good-bye, Mr. Wemmick," said
 the man, stretching out his hand between two bars.
 
 "Thankye," said Wemmick, shaking hands with him. "Same to you, Colonel."
@@ -10821,12 +10825,12 @@ your wearing another ring--in acknowledgment of your attentions."
 "I'll accept the will for the deed," said Wemmick. "By the by; you were
 quite a pigeon-fancier." The man looked up at the sky. "I am told you
 had a remarkable breed of tumblers. Could you commission any friend of
-yours to bring me a pair, of you've no further use for 'em?"
+yours to bring me a pair, if you've no further use for 'em?"
 
-"It shall be done, sir?"
+"It shall be done, sir."
 
 "All right," said Wemmick, "they shall be taken care of. Good afternoon,
-Colonel. Good by!" They shook hands again, and as we walked away Wemmick
+Colonel. Good-bye!" They shook hands again, and as we walked away Wemmick
 said to me, "A Coiner, a very good workman. The Recorder's report is
 made to-day, and he is sure to be executed on Monday. Still you see, as
 far as it goes, a pair of pigeons are portable property all the same."
@@ -10941,7 +10945,7 @@ She drew her arm through mine, as if it must be done, and I requested a
 waiter who had been staring at the coach like a man who had never seen
 such a thing in his life, to show us a private sitting-room. Upon that,
 he pulled out a napkin, as if it were a magic clew without which he
-couldn't find the way up stairs, and led us to the black hole of the
+couldn't find the way upstairs, and led us to the black hole of the
 establishment, fitted up with a diminishing mirror (quite a superfluous
 article, considering the hole's proportions), an anchovy sauce-cruet,
 and somebody's pattens. On my objecting to this retreat, he took us into
@@ -10987,9 +10991,11 @@ losing a chance.
 nonsense? Your friend Mr. Matthew, I believe, is superior to the rest of
 his family?"
 
-"Very superior indeed. He is nobody's enemy--" --"Don't add but his
-own," interposed Estella, "for I hate that class of man. But he really
-is disinterested, and above small jealousy and spite, I have heard?"
+"Very superior indeed. He is nobody's enemy--"
+
+"Don't add but his own," interposed Estella, "for I hate that class of
+man. But he really is disinterested, and above small jealousy and spite,
+I have heard?"
 
 "I am sure I have every reason to say so."
 
@@ -11743,7 +11749,7 @@ I stood, for minutes, looking at Joe, already at work with a glow of
 health and strength upon his face that made it show as if the bright sun
 of the life in store for him were shining on it.
 
-"Good by, dear Joe!--No, don't wipe it off--for God's sake, give me your
+"Good-bye, dear Joe!--No, don't wipe it off--for God's sake, give me your
 blackened hand!--I shall be down soon and often."
 
 "Never too soon, sir," said Joe, "and never too often, Pip!"
@@ -13466,7 +13472,7 @@ the Lane, and he had seen them all go home. Again, the only other man
 who dwelt in the house of which my chambers formed a part had been in
 the country for some weeks, and he certainly had not returned in the
 night, because we had seen his door with his seal on it as we came
-up-stairs.
+upstairs.
 
 "The night being so bad, sir," said the watchman, as he gave me back
 my glass, "uncommon few have come in at my gate. Besides them three
@@ -14001,7 +14007,7 @@ towards the man who had done so much for me.
 
 What would alone have set a division between that man and us, if there
 had been no other dividing circumstance, was his triumph in my story.
-Saving his troublesome sense of having been "low' on one occasion since
+Saving his troublesome sense of having been "low" on one occasion since
 his return,--on which point he began to hold forth to Herbert, the
 moment my revelation was finished,--he had no perception of the
 possibility of my finding any fault with my good fortune. His boast that
@@ -14148,7 +14154,7 @@ to go."
 
 "My good Handel, is it not obvious that with Newgate in the next street,
 there must be far greater hazard in your breaking your mind to him and
-making him reckless, here, than elsewhere. If a pretext to get him away
+making him reckless, here, than elsewhere? If a pretext to get him away
 could be made out of that other convict, or out of anything else in his
 life, now."
 
@@ -14446,7 +14452,7 @@ here you has afore you, side by side, two persons as your eyes can
 separate wide; one, the younger, well brought up, who will be spoke to
 as such; one, the elder, ill brought up, who will be spoke to as such;
 one, the younger, seldom if ever seen in these here transactions, and
-only suspected; t'other, the elder, always seen in 'em and always wi'his
+only suspected; t'other, the elder, always seen in 'em and always wi' his
 guilt brought home. Can you doubt, if there is but one in it, which is
 the one, and, if there is two in it, which is much the worst one?' And
 such-like. And when it come to character, warn't it Compeyson as had
@@ -14504,7 +14510,7 @@ intentions; and his punishment was light. I was put in irons, brought
 to trial again, and sent for life. I didn't stop for life, dear boy and
 Pip's comrade, being here."
 
-"He wiped himself again, as he had done before, and then slowly took
+He wiped himself again, as he had done before, and then slowly took
 his tangle of tobacco from his pocket, and plucked his pipe from his
 button-hole, and slowly filled it, and began to smoke.
 
@@ -15124,7 +15130,7 @@ washing-stand in quite a Divinely Righteous manner.
 
 As I had asked for a night-light, the chamberlain had brought me in,
 before he left me, the good old constitutional rushlight of those
-virtuous days.--an object like the ghost of a walking-cane, which
+virtuous days--an object like the ghost of a walking-cane, which
 instantly broke its back if it were touched, which nothing could ever be
 lighted at, and which was placed in solitary confinement at the bottom
 of a high tin tower, perforated with round holes that made a staringly
@@ -15405,7 +15411,7 @@ of--you remember the pig?"
 
 "Well; and a little bit of him. That sausage you toasted was his, and
 he was in all respects a first-rater. Do try him, if it is only for old
-acquaintance sake. Good by, Aged Parent!" in a cheery shout.
+acquaintance sake. Good-bye, Aged Parent!" in a cheery shout.
 
 "All right, John; all right, my boy!" piped the old man from within.
 
@@ -15437,13 +15443,13 @@ among, what old hulls of ships in course of being knocked to pieces,
 what ooze and slime and other dregs of tide, what yards of ship-builders
 and ship-breakers, what rusty anchors blindly biting into the ground,
 though for years off duty, what mountainous country of accumulated casks
-and timber, how many ropewalks that were not the Old Green Copper. After
+and timber, how many rope-walks that were not the Old Green Copper. After
 several times falling short of my destination and as often overshooting
 it, I came unexpectedly round a corner, upon Mill Pond Bank. It was a
 fresh kind of place, all circumstances considered, where the wind from
 the river had room to turn itself round; and there were two or three
 trees in it, and there was the stump of a ruined windmill, and there
-was the Old Green Copper Ropewalk,--whose long and narrow vista I could
+was the Old Green Copper Rope-walk,--whose long and narrow vista I could
 trace in the moonlight, along a series of wooden frames set in the
 ground, that looked like superannuated haymaking-rakes which had grown
 old and lost most of their teeth.
@@ -15465,8 +15471,7 @@ terrace at Windsor.
 
 "All is well, Handel," said Herbert, "and he is quite satisfied, though
 eager to see you. My dear girl is with her father; and if you'll wait
-till she comes down, I'll make you known to her, and then we'll go up
-stairs. That's her father."
+till she comes down, I'll make you known to her, and then we'll go upstairs. That's her father."
 
 I had become aware of an alarming growling overhead, and had probably
 expressed the fact in my countenance.
@@ -15477,7 +15482,7 @@ never seen him. Don't you smell rum? He is always at it."
 "At rum?" said I.
 
 "Yes," returned Herbert, "and you may suppose how mild it makes his
-gout. He persists, too, in keeping all the provisions up stairs in his
+gout. He persists, too, in keeping all the provisions upstairs in his
 room, and serving them out. He keeps them on shelves over his head, and
 will weigh them all. His room must be like a chandler's shop."
 
@@ -15543,7 +15548,7 @@ looking at these stores in detail, as Herbert pointed them out; and
 something so confiding, loving, and innocent in her modest manner of
 yielding herself to Herbert's embracing arm; and something so gentle in
 her, so much needing protection on Mill Pond Bank, by Chinks's Basin,
-and the Old Green Copper Ropewalk, with Old Barley growling in the
+and the Old Green Copper Rope-walk, with Old Barley growling in the
 beam,--that I would not have undone the engagement between her and
 Herbert for all the money in the pocket-book I had never opened.
 
@@ -15566,7 +15571,7 @@ Herbert, as it was succeeded by silence, "he's drinking. Now," said
 Herbert, as the growl resounded in the beam once more, "he's down again
 on his back!"
 
-Clara returned soon afterwards, and Herbert accompanied me up stairs to
+Clara returned soon afterwards, and Herbert accompanied me upstairs to
 see our charge. As we passed Mr. Barley's door, he was heard hoarsely
 muttering within, in a strain that rose and fell like wind, the
 following Refrain, in which I substitute good wishes for something quite
@@ -15644,17 +15649,17 @@ Our conference being now ended, and everything arranged, I rose to go;
 remarking to Herbert that he and I had better not go home together, and
 that I would take half an hour's start of him. "I don't like to leave
 you here," I said to Provis, "though I cannot doubt your being safer
-here than near me. Good by!"
+here than near me. Good-bye!"
 
 "Dear boy," he answered, clasping my hands, "I don't know when we may
-meet again, and I don't like good by. Say good night!"
+meet again, and I don't like good-bye. Say good night!"
 
 "Good night! Herbert will go regularly between us, and when the time
 comes you may be certain I shall be ready. Good night, good night!"
 
 We thought it best that he should stay in his own rooms; and we left him
 on the landing outside his door, holding a light over the stair-rail to
-light us down stairs. Looking back at him, I thought of the first night
+light us downstairs. Looking back at him, I thought of the first night
 of his return, when our positions were reversed, and when I little
 supposed my heart could ever be as heavy and anxious at parting from him
 as it was now.
@@ -15672,7 +15677,7 @@ kept it to myself.
 
 When I had taken leave of the pretty, gentle, dark-eyed girl, and of the
 motherly woman who had not outlived her honest sympathy with a little
-affair of true love, I felt as if the Old Green Copper Ropewalk had
+affair of true love, I felt as if the Old Green Copper Rope-walk had
 grown quite a different place. Old Barley might be as old as the hills,
 and might swear like a whole field of troopers, but there were redeeming
 youth and trust and hope enough in Chinks's Basin to fill it to
@@ -15686,7 +15691,7 @@ fountain twice or thrice before I descended the steps that were between
 me and my rooms, but I was quite alone. Herbert, coming to my
 bedside when he came in,--for I went straight to bed, dispirited and
 fatigued,--made the same report. Opening one of the windows after that,
-he looked out into the moonlight, and told me that the pavement was a
+he looked out into the moonlight, and told me that the pavement was as
 solemnly empty as the pavement of any cathedral at that same hour.
 
 Next day I set myself to get the boat. It was soon done, and the boat
@@ -16396,10 +16401,10 @@ her forehead on it.
 "I am far from happy, Miss Havisham; but I have other causes of disquiet
 than any you know of. They are the secrets I have mentioned."
 
-After a little while, she raised her head, and looked at the fire Again.
+After a little while, she raised her head, and looked at the fire again.
 
 "It is noble in you to tell me that you have other causes of
-unhappiness, Is it true?"
+unhappiness. Is it true?"
 
 "Too true."
 
@@ -16566,7 +16571,7 @@ succeeded on behalf of Herbert, Miss Havisham had told me all she knew
 of Estella, I had said and done what I could to ease her mind. No matter
 with what other words we parted; we parted.
 
-Twilight was closing in when I went down stairs into the natural air. I
+Twilight was closing in when I went downstairs into the natural air. I
 called to the woman who had opened the gate when I entered, that I would
 not trouble her just yet, but would walk round the place before leaving.
 For I had a presentiment that I should never be there again, and I felt
@@ -16595,7 +16600,7 @@ this illusion, though it was but momentary, caused me to feel an
 indescribable awe as I came out between the open wooden gates where I
 had once wrung my hair after Estella had wrung my heart. Passing on into
 the front courtyard, I hesitated whether to call the woman to let me out
-at the locked gate of which she had the key, or first to go up stairs
+at the locked gate of which she had the key, or first to go upstairs
 and assure myself that Miss Havisham was as safe and well as I had left
 her. I took the latter course and went up.
 
@@ -16893,7 +16898,7 @@ Herbert to go his way into the City, and took my way to Little Britain.
 There were periodical occasions when Mr. Jaggers and Wemmick went over
 the office accounts, and checked off the vouchers, and put all things
 straight. On these occasions, Wemmick took his books and papers into Mr.
-Jaggers's room, and one of the up-stairs clerks came down into the outer
+Jaggers's room, and one of the upstairs clerks came down into the outer
 office. Finding such clerk on Wemmick's post that morning, I knew
 what was going on; but I was not sorry to have Mr. Jaggers and Wemmick
 together, as Wemmick would then hear for himself that I said nothing to
@@ -16992,7 +16997,7 @@ this claim?"
 knowledge or belief that his daughter is in existence."
 
 For once, the powerful pocket-handkerchief failed. My reply was so
-Unexpected, that Mr. Jaggers put the handkerchief back into his pocket
+unexpected, that Mr. Jaggers put the handkerchief back into his pocket
 without completing the usual performance, folded his arms, and looked
 with stern attention at me, though with an immovable face.
 
@@ -17696,7 +17701,7 @@ arter you to know your ins and outs. For, says Old Orlick to himself,
 'Somehow or another I'll have him!' What! When I looks for you, I finds
 your uncle Provis, eh?"
 
-Mill Pond Bank, and Chinks's Basin, and the Old Green Copper Ropewalk,
+Mill Pond Bank, and Chinks's Basin, and the Old Green Copper Rope-walk,
 all so clear and plain! Provis in his rooms, the signal whose use was
 over, pretty Clara, the good motherly woman, old Bill Barley on his
 back, all drifting by, as on the swift stream of my life fast running
@@ -18029,7 +18034,7 @@ out,--out at last upon the clearer river, where the ships' boys might
 take their fenders in, no longer fishing in troubled waters with them
 over the side, and where the festooned sails might fly out to the wind.
 
-At the Stairs where we had taken him abroad, and ever since, I had
+At the stairs where we had taken him abroad, and ever since, I had
 looked warily for any token of our being suspected. I had seen none. We
 certainly had not been, and at that time as certainly we were not either
 attended or followed by any boat. If we had been waited on by any boat,
@@ -18319,7 +18324,7 @@ her smoke.
 But, it was half-past one before we saw her smoke, and soon afterwards
 we saw behind it the smoke of another steamer. As they were coming on
 at full speed, we got the two bags ready, and took that opportunity
-of saying good by to Herbert and Startop. We had all shaken hands
+of saying good-bye to Herbert and Startop. We had all shaken hands
 cordially, and neither Herbert's eyes nor mine were quite dry, when I
 saw a four-oared galley shoot out from under the bank but a little way
 ahead of us, and row out into the same track.
@@ -18663,7 +18668,7 @@ saved. Whereas, the portable property certainly could have been saved.
 That's the difference between the property and the owner, don't you
 see?"
 
-I invited Wemmick to come up stairs, and refresh himself with a glass
+I invited Wemmick to come upstairs, and refresh himself with a glass
 of grog before walking to Walworth. He accepted the invitation. While he
 was drinking his moderate allowance, he said, with nothing to lead up to
 it, and after having appeared rather fidgety,--
@@ -18750,7 +18755,7 @@ a little limp pew-opener in a soft bonnet like a baby's, made a feint
 of being the bosom friend of Miss Skiffins. The responsibility of giving
 the lady away devolved upon the Aged, which led to the clergyman's being
 unintentionally scandalized, and it happened thus. When he said, "Who
-giveth this woman to be married to this man?" the old gentlemen, not in
+giveth this woman to be married to this man?" the old gentleman, not in
 the least knowing what point of the ceremony we had arrived at, stood
 most amiably beaming at the ten commandments. Upon which, the clergyman
 said again, "WHO giveth this woman to be married to this man?" The old
@@ -19183,8 +19188,8 @@ pen-tray as if it were a chest of large tools, and tucking up his
 sleeves as if he were going to wield a crow-bar or sledgehammer. It was
 necessary for Joe to hold on heavily to the table with his left elbow,
 and to get his right leg well out behind him, before he could begin; and
-when he did begin he made every down-stroke so slowly that it might
-have been six feet long, while at every up-stroke I could hear his pen
+when he did begin he made every downstroke so slowly that it might
+have been six feet long, while at every upstroke I could hear his pen
 spluttering extensively. He had a curious idea that the inkstand was
 on the side of him where it was not, and constantly dipped his pen into
 space, and seemed quite satisfied with the result. Occasionally, he was
@@ -19837,7 +19842,7 @@ have anythink to forgive!"
 "Now let me go up and look at my old little room, and rest there a few
 minutes by myself. And then, when I have eaten and drunk with you, go
 with me as far as the finger-post, dear Joe and Biddy, before we say
-good by!"
+good-bye!"
 
 ***
 
@@ -19873,7 +19878,7 @@ had never been in him at all, but had been in me.
 Chapter LIX
 
 For eleven years, I had not seen Joe nor Biddy with my bodily
-Eyes,--though they had both been often before my fancy in the
+eyes,--though they had both been often before my fancy in the
 East,--when, upon an evening in December, an hour or two after dark, I
 laid my hand softly on the latch of the old kitchen door. I touched it
 so softly that I was not heard, and looked in unseen. There, smoking his
